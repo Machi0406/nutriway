@@ -1,0 +1,6 @@
+Alumnos: Parodi, Máximo y Bullio, Ma. Antonella
+Materia: Maquetado y desarrollo web
+Carrera: Diseño Multimedial
+Turno: Tarde
+Comisión: DMT2BH
+Año: 2022
